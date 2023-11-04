@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @empapryka
 - 👀 I’m interested in developing web applications.
 - 🌱 I’m currently learning JS both on front and backend.
-- 💞️ I’m looking to collaborate on nothing right now, if it comes to my mind I'll let you know.
+- 💞️ I’m looking to collaborate on nothing right now, if something comes to my mind I'll let you know.
 
 <!---
 empapryka/empapryka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
